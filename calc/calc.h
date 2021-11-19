@@ -1,0 +1,2 @@
+#defind MAXVAR	10
+
